@@ -10,6 +10,18 @@
 > **فارسی**: پروژه سیدوُلْت — دانش آفلاین شما برای دوام در بحران‌ها  
 > **বাংলা**: প্রজেক্ট সিডভল্ট — সংকটের সময় টিকে থাকার জন্য আপনার অফলাইন জ্ঞানভাণ্ডার  
 
+## 🌐 Choose your language / 选择语言 / اختر لغتك
+
+[![English](https://img.shields.io/badge/English-Documentation-blue)](README.en.md)
+[![中文](https://img.shields.io/badge/中文-文档-red)](README.zh.md)
+[![العربية](https://img.shields.io/badge/العربية-الوثائق-green)](README.ar.md)
+[![Русский](https://img.shields.io/badge/Русский-Документация-lightblue)](README.ru.md)
+[![Español](https://img.shields.io/badge/Español-Documentación-yellow)](README.es.md)
+[![Français](https://img.shields.io/badge/Français-Documentation-purple)](README.fr.md)
+[![Українська](https://img.shields.io/badge/Українська-Документація-blue)](README.uk.md)
+[![فارسی](https://img.shields.io/badge/فارسی-مستندات-orange)](README.fa.md)
+[![বাংলা](https://img.shields.io/badge/বাংলা-নথি-green)](README.bn.md)
+
 [![License: CC BY-SA 4.0](https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by-sa/4.0/)
 [![Available via Torrent & IPFS](https://img.shields.io/badge/Distribution-Torrent%20%7C%20IPFS-blue)](#downloads)
 [![Mirror on Internet Archive](https://img.shields.io/badge/Mirror-Internet%20Archive-orange)](https://archive.org)
